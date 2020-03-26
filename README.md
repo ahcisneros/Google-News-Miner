@@ -1,2 +1,2 @@
-# Google-News-Miner
-Downloads article's text, date, and authors
+# Google-News-Data-Miner
+Download text, date, and author data from articles found in Google News for the specified keyword(s). 
